@@ -1,0 +1,28 @@
+[19-Oct-2021 05:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/services.php on line 18
+[19-Oct-2021 05:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/mail.php on line 19
+[19-Oct-2021 06:04:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/filesystems.php on line 16
+[19-Oct-2021 06:08:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/app.php on line 16
+[26-Oct-2021 11:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/services.php on line 18
+[26-Oct-2021 11:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/mail.php on line 19
+[26-Oct-2021 12:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mntz130alpr/public_html/digital/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/config/filesystems.php on line 16
