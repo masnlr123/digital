@@ -1,0 +1,11 @@
+[23-Jul-2021 18:46:14 UTC] PHP Warning:  chown(): Operation not permitted in /home/mntz130alpr/public_html/digital/assets/plugins/global.php on line 7
+[23-Jul-2021 18:48:47 UTC] PHP Warning:  chown(): Operation not permitted in /home/mntz130alpr/public_html/digital/assets/plugins/global_css.php on line 7
+[24-Jul-2021 09:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/mntz130alpr/public_html/digital/assets/plugins/global_js.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/mntz130alpr/public_html/digital/assets/plugins/global_js.php on line 62
+[24-Jul-2021 10:03:40 UTC] PHP Warning:  chown(): Can not call chown() for a non-standard stream in /home/mntz130alpr/public_html/digital/assets/plugins/global.php on line 7
+[24-Jul-2021 10:03:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mntz130alpr/public_html/digital/assets/plugins/global.php on line 9
+[24-Jul-2021 10:03:40 UTC] PHP Warning:  file_get_contents(https://www.alliancein.com/wp-config.php): failed to open stream: no suitable wrapper could be found in /home/mntz130alpr/public_html/digital/assets/plugins/global.php on line 9
+[05-Aug-2021 08:31:02 UTC] PHP Warning:  chown(): No such file or directory in /home/mntz130alpr/public_html/digital/assets/plugins/global_css.php on line 7
+[05-Aug-2021 08:31:02 UTC] PHP Warning:  unlink(SELECT * FROM cp_leads): No such file or directory in /home/mntz130alpr/public_html/digital/assets/plugins/global_css.php on line 8
